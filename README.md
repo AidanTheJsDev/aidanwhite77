@@ -1,2 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidanwhite77&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aidanwhite77&theme=monokai)
+[![nikoilaischunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanwhite77&count_private=true&show_icons=true&theme=radical&border_radius=25&icon_color=fe428e)](https://github.com/nikolaischunk/nikolaischunk)
